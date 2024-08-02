@@ -15,7 +15,7 @@ https://github.com/Daniel-KM/Omeka-plugin-ArkAndNoid
     3. /public_html/plugins/Ark/views/helpers/GetRecordFromArk.php
     4. /public_html/plugins/Ark/ArkPlugin.php
 
-
+-----
 
 
 
